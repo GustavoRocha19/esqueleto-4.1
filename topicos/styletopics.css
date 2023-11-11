@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.cabecario {
+    height: 120px;
+    width: 100%;
+    background-color: #ffeed8;
+}
+
+
+.logotipo {
+    height: 130px;
+    width: 270px;
+    margin-left: 30px;
+}
+
+
+.insta {
+    width: 30px ;
+    float: right;
+    margin-top: 50px;
+    margin-right: 40px;
+}
+
+.abas {
+    height: 90px;
+    width: 85%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: rgb(7, 233, 233);
+    margin: 0 auto;
+    border-radius: 2px 2px 23px 23px;
+}
+
+.links {
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 24px;
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: 500;
+}
+
+.links:hover {
+   cursor: pointer;
+   text-decoration: underline;
+
+}
+.conteudo {
+    color: rgb(106, 155, 155);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.foto {
+    text-align: center;
+}
+.foto img {
+    border-radius: 70px;
+}
+.title {
+    display: inline-block;
+    margin: 50px;
+    background-color: #ffeed8;
+}
